@@ -4,7 +4,7 @@ import re
 
 # Define the folder containing PDF files
 pdf_folder = './vn/'
-output_folder = './output/'
+output_folder = './data_ingestion_vn/'
 
 # Ensure the output folder exists
 os.makedirs(output_folder, exist_ok=True)
@@ -79,4 +79,4 @@ for pdf_file in os.listdir(pdf_folder)[:]:
         base_filename = os.path.splitext(pdf_file)[0]
         save_chapters_to_txt(chapters, base_filename)
 
-print("Processing complete. Check the 'output' folder for results.")
+print("Processing complete. Check the 'data_ingestion_vn' folder for results.")
