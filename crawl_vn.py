@@ -64,6 +64,11 @@ def save_chapters_to_txt(chapters, base_filename):
         else:
             sanitized_title = chapter_title.replace(' ', '_').replace('/', '_')
         
+        # Remove the first 2 lines from content
+        content_lines = content.split('\n')
+        if len(content_lines) > 2:
+            content = '\n'.join(content_lines[2:])
+        
         txt_filename = os.path.join(
             output_folder, f"{sanitized_title}.txt"
         )

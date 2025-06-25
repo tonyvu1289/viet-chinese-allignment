@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<FILE ID="PKS_130">
+		<meta>
+			<TITLE>Sử ký Tư Mã Thiên</TITLE>
+			<VOLUME/>
+			<AUTHOR>Tư Mã Thiên</AUTHOR>
+			<PERIOD>127BC</PERIOD>
+			<LANGUAGE>Hán-Việt</LANGUAGE>
+			<TRANSLATOR>Trần Quang Đức</TRANSLATOR>
+			<SOURCE>ebookvie</SOURCE>
+		</meta>
+		<SECT ID="PKS_130.001" NAME="Sử ký Tư Mã Thiên">
+			<PAGE ID="PKS_130.001.001">
+				<STC ID="PKS_130.001.001.01">
+					<C>司马氏世典周史。 惠襄之间，司马氏去周适晋。 晋中军随会奔秦， 而司马氏入少梁。</C>
+					<V>QUYỂN 130</V>
+				</STC>
+				<STC ID="PKS_130.001.001.02">
+					<C>蒯聩其后也。 在秦者名错，与张仪争论，于是惠王使错将伐蜀，遂拔，因而守之。 错孙靳， 事武安君白起。</C>
+					<V>Kỵ lang: tức quân kỵ binh, đặt dưới quyền chỉ huy của Kỵ lang tướng, có</V>
+				</STC>
+				<STC ID="PKS_130.001.001.03">
+					<C>葬于华池。 靳孙昌，昌为秦主铁官，当始皇之时。 蒯聩玄孙卬为武信君将 而徇朝歌。</C>
+					<V>Yết giả: chức quan hầu cận, làm nhiệm vụ truyền đạt mệnh lệnh của nhà</V>
+				</STC>
+				<STC ID="PKS_130.001.001.04">
+					<C>无泽为汉巿长。 无泽生喜，喜为五大夫，卒，皆葬高门。 喜生谈，谈为太史公。 太史公学天官于唐都，</C>
+					<V>Yết giả bộc xạ : trưởng quan của quan Yết giả, hưởng trật một nghìn thạch.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.05">
+					<C>受易于杨何， 习道论于黄子。 太史公仕于建元元封之间，愍学者之不达其意而师悖， 乃论六家之要指曰：</C>
+					<V>Một chức tiểu lại.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.06">
+					<C>易大传： 「天下一致而百虑，同归而殊涂。」 夫阴阳、儒、墨、名、法、道德，此务为治者也，直所从言之异路，有省不省耳。 尝窃观阴阳之术，大祥</C>
+					<V>Đương thời, từ &quot;trưởng giả&quot; thường dùng để chỉ người có tài năng và đức</V>
+				</STC>
+				<STC ID="PKS_130.001.001.07">
+					<C>而衆忌讳，使人拘而多所畏； 然其序四时之大顺，不可失也。 儒者博而寡要，劳而少功，是以其事难尽从；然其序君臣父子之礼，列夫妇长幼之别，不可易也。 墨者</C>
+					<V>Công xa lệnh : chức quan đảm trách việc phòng vệ trong cung.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.08">
+					<C>俭而难遵，是以其事不可徧循； 然其强本节用，不可废也。 法家严而少恩；然其正君臣上下之分，不可改矣。 名家使人俭而善失真；</C>
+					<V>Trung đại phu: cùng Thượng đại phu, Hạ đại phu, là các chức quan khá</V>
+				</STC>
+				<STC ID="PKS_130.001.001.09">
+					<C>儒者则不然。 以为人主天下之仪表也，主倡而臣和，主先而臣随。 如此则主劳而臣逸。 至于大道之要，去健羡，</C>
+					<V>Trung lang tướng : Võ quan, hưởn g trật hai nghìn thạch, địa vị thấp hơn</V>
+				</STC>
+				<STC ID="PKS_130.001.001.10">
+					<C>绌聦明， 释此而任术。 夫神大用则竭，形大劳则敝。 形神骚动，欲与天地长久，非所闻也。</C>
+					<V>Đình úy : một trong các chức quan thuộc hàng cửu khanh, nắm về việc hình</V>
+				</STC>
+				<STC ID="PKS_130.001.001.11">
+					<C>各有教令，顺之者昌，逆之者不死则亡，未必然也，故曰「使人拘而多畏」。 夫春生夏长，秋收冬藏，此天道之大经也，弗顺则无以为天下纲纪，故曰「四时之大顺，不可失也」。 夫儒者以六蓺为法。 六蓺经传以千万数，累世不能通其学，当年不能究其礼，故曰「博而寡要，劳而少功」。</C>
+					<V>Cao Hiếu : miếu thờ Hán Cao tổ (Lưu Bang).</V>
+				</STC>
+				<STC ID="PKS_130.001.001.12">
+					<C>墨者亦尚尧舜道，言其德行曰：「堂高三尺， 土阶三等，茅茨不翦， 采椽不刮。 食土簋，</C>
+					<V>Trường Lăng : lăng mộ của Hán Cao tổ Lưu Bang (sau Lữ hậu cũng được</V>
+				</STC>
+				<STC ID="PKS_130.001.001.13">
+					<C>啜土刑， 粝粱之食， 藜藿之羹。 夏日葛衣，冬日鹿裘。」</C>
+					<V>Trích từ thiên &quot;Hồng phạm&quot; của Kinh Thư [Thượng thư].</V>
+				</STC>
+				<STC ID="PKS_130.001.001.14">
+					<C>举音不尽其哀。 教丧礼，必以此为万民之率。 使天下法若此，则尊卑无别也。 夫世异时移，事业不必同，故曰「俭而难遵」。</C>
+					<V>Thái trung đại phu: chức quan tương đối lớn, cùng các chức thấp hơn là</V>
+				</STC>
+				<STC ID="PKS_130.001.001.15">
+					<C>此墨子之所长，虽百长弗能废也。 法家不别亲踈，不殊贵贱，一断于法，则亲亲尊尊之恩绝矣。 可以行一时之计，而不可长用也，故曰「严而少恩」。 若尊主卑臣，明分职不得相逾越，虽百家弗能改也。</C>
+					<V>Thái tử Thái phó : chức quan phụ trách việc dạy dỗ, phò tá cho Thái tử.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.16">
+					<C>使人不得反其意，专决于名而失人情，故曰「使人俭而善失真」。 若夫控名责实，参伍不失， 此不可不察也。 道家无为，又曰无不为，</C>
+					<V>Mỗ: không nói rõ tên hai người này .</V>
+				</STC>
+				<STC ID="PKS_130.001.001.17">
+					<C>其实易行， 其辞难知。 其术以虚无为本，以因循为用。 无成势，无常形，故能究万物之情。</C>
+					<V>Tức tuổi hai mươi.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.18">
+					<C>不为物先，不为物后， 故能为万物主。 有法无法，因时为业； 有度无度，因物与合。</C>
+					<V>Thái bộc : chức quan phụ trách về xe ngựa cho nhà vua.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.19">
+					<C>故曰「圣人不朽，时变是守。 虚者道之常也，因者君之纲」也。 羣臣并至，使各自明也。 其实中其声者谓之端，实不中其声者谓之窾。</C>
+					<V>Thạch tướng từ : đền thờ Tướng quốc họ Thạch.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.20">
+					<C>乃合大道，混混冥冥。 光耀天下，复反无名。 凡人所生者神也，所托者形也。 神大用则竭，形大劳则敝，形神离则死。</C>
+					<V>Tức Nam Việt và Đông Việt, tương ứng với tỉnh Quảng Đông, Quảng Tây</V>
+				</STC>
+				<STC ID="PKS_130.001.001.21">
+					<C>不先定其神，而曰「我有以治天下」，何由哉？ 太史公旣掌天官，不治民。 有子曰迁。 迁生龙门，</C>
+					<V>Ý nói Bất Nghi tư thông với chị dâu, nhưng sau, Bất Nghi nói mình không</V>
+				</STC>
+				<STC ID="PKS_130.001.001.22">
+					<C>耕牧河山之阳。 年十岁则诵古文。 二十而南游江、淮，上会稽，探禹穴， 闚九疑，</C>
+					<V>Lấy ý từ lời học trò Khổng tử là Tử Cầm hỏi Tử Trường được ghi lại trong</V>
+				</STC>
+				<STC ID="PKS_130.001.001.23">
+					<C>浮于沅、湘； 北涉汶、泗， 讲业齐、鲁之都，观孔子之遗风，乡射邹、峄；戹困鄱、薛、彭城， 过梁、楚以归。</C>
+					<V>Trong các bản Sử ký hiện còn, cuối một số quyển thảng hoặc chép lời bàn</V>
+				</STC>
+				<STC ID="PKS_130.001.001.24">
+					<C>于是迁仕为郎中，奉使西征巴、蜀以南，南略卭、笮、昆明，还报命。 是岁天子始建汉家之封，而太史公留滞周南， 不得与从事， 故发愤且卒。</C>
+					<V>Đình : một đơn vị hành chính thời Hán.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.25">
+					<C>而子迁适使反，见父于河洛之间。 太史公执迁手而泣曰：「余先周室之太史也。 自上世尝显功名于虞夏，典天官事。</C>
+					<V>Tam lão : mười đình có một hương, mỗi hương có một người làm Tam lão,</V>
+				</STC>
+				<STC ID="PKS_130.001.001.26">
+					<C>后世中衰，绝于予乎？</C>
+					<V>Chó Địch : một loài chó lớn sinh trưởng ở phương bắc. Nguyên là &quot;thi quệ&quot;, một chứng bệnh đột nhiên ngã quỵ, bất tỉnh nhân sự,</V>
+				</STC>
+				<STC ID="PKS_130.001.001.27">
+					<C>汝复为太史，则续吾祖矣。 今天子接千岁之统，封泰山，而余不得从行，是命也夫，命也夫！</C>
+					<V>Thượng tiêu</V>
+				</STC>
+				<STC ID="PKS_130.001.001.28">
+					<C>余死，汝必为太史；为太史，无忘吾所欲论著矣。 且夫孝始于事亲，中于事君，终于立身。</C>
+					<V>Gồm xanh là màu của gan, đỏ là màu của tim, vàng là màu của lá lách,</V>
+				</STC>
+				<STC ID="PKS_130.001.001.29">
+					<C>扬名于后世，以显父母，此孝之大者。</C>
+					<V>Ngũ thạch : năm loại đá để luyện đan.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.30">
+					<C>夫天下称诵周公，言其能论歌文武之德，宣周邵之风，达太王王季之思虑，爰及公刘，以尊后稷也。</C>
+					<V>Mẫu sán : một thứ bệnh thuộc về sán khí. Cũng là một danh y thời cổ, bạn với Công Tôn Quang. Dẫn theo sách Liệt tử, ý nói thấy được cả tâm ý riêng của người ta thì</V>
+				</STC>
+				<STC ID="PKS_130.001.001.31">
+					<C>幽厉之后，王道缺，礼乐衰，孔子修旧起废，论诗书，作春秋，则学者至今则之。 自获麟以来四百馀岁，</C>
+					<V>Chiêm sự: chức quan đặt ra từ thời Tần, quản lý sự vụ trong cung hoàn g</V>
+				</STC>
+				<STC ID="PKS_130.001.001.32">
+					<C>而诸侯相兼，史记放绝。 今汉兴，海内一统，明主贤君忠臣死义之士，余为太史而弗论载，废天下之史文，余甚惧焉，汝其念哉！」</C>
+					<V>Sách gồm 26 thiên, nội dung pha trộn cả tư tưởng của Nho gia, Pháp gia và</V>
+				</STC>
+				<STC ID="PKS_130.001.001.33">
+					<C>迁俯首流涕曰：「小子不敏，请悉论先人所次旧闻，弗敢阙。」 卒三岁而迁为太史令， 紬史记 石室金匮之书。</C>
+					<V>Ý nói chỉ toan tính những việc ngấm ngầm của mình mà không cần biết</V>
+				</STC>
+				<STC ID="PKS_130.001.001.34">
+					<C>五年而当太初元年，</C>
+					<V>Chỉ Thái hậu và Hoàng đế.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.35">
+					<C>十一月甲子朔旦冬至，天历始改，建于明堂，诸神受纪。 太史公曰：「先人有言： 『自周公卒五百岁而有孔子。 孔子卒后至于今五百岁，</C>
+					<V>Ý nói ba phải, không dám có chủ ý.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.36">
+					<C>有能绍明世，正易传，继春秋，本诗书礼乐之际？ 』意在斯乎！ 意在斯乎！ 小子何敢让焉。」</C>
+					<V>Ý nói tùy ý mổ xẻ như con cá, miếng thịt.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.37">
+					<C>上大夫壶遂曰： 「昔孔子何为而作春秋哉？」 太史公曰：「余闻董生曰： 『周道衰废，孔子为鲁司寇，诸侯害之，大夫壅之。</C>
+					<V>Ý nói được hiển quý là nhờ lợi dụng được việc Thái hậu và nhà vua cùng</V>
+				</STC>
+				<STC ID="PKS_130.001.001.38">
+					<C>孔子知言之不用，道之不行也，是非二百四十二年之中，</C>
+					<V>Tức sách của Hàn Phi tử.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.39">
+					<C>以为天下仪表，贬天子，退诸侯，讨大夫，以达王事而已矣。</C>
+					<V>Một học thuyết triết học cuối thời Chiến quốc đến đầu thời Hán, chuyên</V>
+				</STC>
+				<STC ID="PKS_130.001.001.40">
+					<C>』子曰：『我欲载之空言，不如见之于行事之深切著明也。 』</C>
+					<V>Đại hành : chức quan phụ trách việc tiếp đãi tân khách.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.41">
+					<C>夫春秋，上明三王之道，下辨人事之纪，别嫌疑，明是非，定犹豫，善善恶恶， 贤贤贱不肖，存亡国，继绝世，补敝起废，王道之大者也。 易著天地阴阳四时五行，故长于变；礼经纪人伦，故长于行；书记先王之事，故长于政；诗记山川溪谷禽兽草木牝牡雌雄，故长于风；乐乐所以立，故长于和；春秋辩是非，故长于治人。 是故礼以节人，乐以发和，书以道事，诗以达意，易以道化，春秋以道义。</C>
+					<V>Thuộc quan dưới quyền các Quận ủy ở các quận vùng biên giới nhà Hán.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.42">
+					<C>拨乱世反之正，莫近于春秋。 春秋文成数万，其指数千。</C>
+					<V>Chức quan lo việc quan hệ qua lại giữa triều Hán với các tộc người thiểu</V>
+				</STC>
+				<STC ID="PKS_130.001.001.43">
+					<C>万物之散聚皆在春秋。</C>
+					<V>Chỉ cận thần được nhà vua sủng ái.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.44">
+					<C>春秋之中，弑君三十六，亡国五十二，诸侯奔走不得保其社稷者不可胜数。 察其所以，皆失其本已。</C>
+					<V>Tức vào hàng thứ tám. Ý nói không muốn hạ mình để bị bọn T rưởng sử hỏi cung.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.45">
+					<C>故易曰『失之豪厘，差以千里』。</C>
+					<V>Dẫn lời Khổng tử ở thiên &quot;Tử Lộ&quot; trong sách Luận ngữ .</V>
+				</STC>
+				<STC ID="PKS_130.001.001.46">
+					<C>故曰『臣弑君，子弑父，非一旦一夕之故也，其渐久矣』。 故有国者不可以不知春秋，前有谗而弗见，后有贼而不知。 为人臣者不可以不知春秋，守经事而不知其宜，遭变事而不知其权。 为人君父而不通于春秋之义者，必蒙首恶之名。</C>
+					<V>Một loài vật là con lai giữa lừa và ngựa.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.47">
+					<C>为人臣子而不通于春秋之义者，必陷篡弑之诛，死罪之名。 其实皆以为善，为之不知其义， 被之空言而不敢辞。 夫不通礼义之旨，至于君不君，臣不臣，父不父，子不子。</C>
+					<V>Đều là các loại tuấn mã.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.48">
+					<C>夫君不君则犯， 臣不臣则诛，父不父则无道，子不子则不孝。 此四行者，天下之大过也。 以天下之大过予之，则受而弗敢辞。</C>
+					<V>Một loại ngựa hoang.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.49">
+					<C>故春秋者，礼义之大宗也。</C>
+					<V>Tương truyền là cháu bốn đời của Hậu Tắc - thủy tổ của nhà Chu.</V>
+				</STC>
+				<STC ID="PKS_130.001.001.50">
+					<C>夫礼禁未然之前，法施已然之后；法之所为用者易见，而礼之所为禁者难知。」</C>
+					<V>Vùng đất xa xôi, cách kinh đô từ hai nghìn đến hai nghìn năm trăm dặm.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="PKS_130.001.002">
+				<STC ID="PKS_130.001.002.01">
+					<C>壶遂曰：「孔子之时，上无明君，下不得任用，故作春秋，垂空文以断礼义，当一王之法。 今夫子上遇明天子，下得守职，万事旣具，咸各序其宜，夫子所论，欲以何明？」 太史公曰：「唯唯，否否， 不然。</C>
+					<V>Phủ hình hình pháp, đặt ra thời Chu Mục vương theo kiến nghị của Lã bầu,</V>
+				</STC>
+				<STC ID="PKS_130.001.002.02">
+					<C>余闻之先人曰：『伏羲至纯厚，作易八卦。 尧舜之盛，尚书载之，礼乐作焉。 汤武之隆，诗人歌之。</C>
+					<V>Yên chi : Vợ của Thiền vu - vua Hung Nô. Nguyên văn là &quot;tỷ dư&quot;, một thứ đồ dùng để bện tóc, làm bằng vàng, có sách</V>
+				</STC>
+				<STC ID="PKS_130.001.002.03">
+					<C>春秋采善贬恶，推三代之德，襃周室，非独刺讥而已也。 』汉兴以来，至明天子，获符瑞，封禅，改正朔，易服色，受命于穆清， 泽流罔极，海外殊俗，重译款塞， 请来献见者，不可胜道。</C>
+					<V>Chỉ dân thường.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.04">
+					<C>臣下百官力诵圣德，犹不能宣尽其意。 且士贤能而不用，有国者之耻；主上明圣而德不布闻，有司之过也。 且余尝掌其官，废明圣盛德不载，灭功臣世家贤大夫之业不述，堕先人所言，罪莫大焉。 余所谓述故事，整齐其世传，非所谓作也，而君比之于春秋，谬矣。」</C>
+					<V>Chỉ quan chức.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.05">
+					<C>于是论次其文。 七年</C>
+					<V>Đây chỉ sách Xuân thu Cốc Lượng truyện .</V>
+				</STC>
+				<STC ID="PKS_130.001.002.06">
+					<C>而太史公遭李陵之祸， 幽于缧绁。</C>
+					<V>Tội dùng tà thuật, hình nhân để phù phép hại người.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.07">
+					<C>乃喟然而叹曰：「是余之罪也夫！ 是余之罪也夫！ 身毁不用矣。」</C>
+					<V>Ý nói điển chương chế độ, nền chính trị đương thời.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.08">
+					<C>退而深惟曰：「夫诗书隐约者，</C>
+					<V>Phu nhân : hạng hầu thiếp của Hoàng đế, trên bậc Quý tần và Quý nhân.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.09">
+					<C>欲遂其志之思也。</C>
+					<V>Ý nói thu thắng lợi.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.10">
+					<C>昔西伯拘羑里， 演周易；孔子戹陈蔡，作春秋；屈原放逐，著离骚；左丘失明，厥有国语；孙子膑脚，而论兵法；不韦迁蜀，世传吕览； 韩非囚秦，说难、孤愤；诗三百篇，大抵贤圣发愤之所为作也。 此人皆意有所郁结，不得通其道也，故述往事，思来者。」</C>
+					<V>Xưa, khi giao chiến giết được địch thì cắt tai mang về</V>
+				</STC>
+				<STC ID="PKS_130.001.002.11">
+					<C>于是卒述陶唐以来，至于麟止， 自黄帝始。</C>
+					<V>Là lời Khổng tử, chép trong sách T rung dung của nhà nho.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.12">
+					<C>维昔黄帝，法天则地，四圣遵序， 各成法度；唐尧逊位，虞舜不台； 厥美帝功，万世载之。 作五帝本纪第一。</C>
+					<V>Tức tướng quân Vệ Thanh.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.13">
+					<C>维禹之功，九州攸同，光唐虞际，德流苗裔；夏桀淫骄，乃放鸣条。 作夏本纪第二。</C>
+					<V>Tư Mã pháp : một bộ binh thư thời cổ, tương truyền do Khương Tử Nha</V>
+				</STC>
+				<STC ID="PKS_130.001.002.14">
+					<C>维契作商， 爰及成汤；太甲居桐，德盛阿衡；武丁得说，乃称高宗；帝辛湛湎，诸侯不享。 作殷本纪第三。 维弃作稷，德盛西伯；武王牧野，实抚天下；幽厉昏乱，旣丧酆镐；陵迟至赧；洛邑不祀。</C>
+					<V>Mặc tử : tức Mặc Địch, người khai sáng phái Mặc gia, chủ trương kiêm ái.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.15">
+					<C>作周本纪第四。 维秦之先，伯翳佐禹；穆公思义，悼豪之旅； 以人为殉，诗歌黄鸟；昭襄业帝。 作秦本纪第五。</C>
+					<V>Tăng tử : tức Tăng Sâm, cao đồ của Khổng tử, là người phát huy tư tưởng</V>
+				</STC>
+				<STC ID="PKS_130.001.002.16">
+					<C>始皇旣立，并兼六国，销锋铸鐻， 维偃干革，尊号称帝，矜武任力；二世受运，子婴降虏。 作始皇本纪第六。 秦失其道，豪桀并扰；项梁业之，子羽接之；杀庆救赵，</C>
+					<V>Đào Chu : tức Phạm Lãi, người nước Việt thời Xuân thu, sau khi giúp Việt</V>
+				</STC>
+				<STC ID="PKS_130.001.002.17">
+					<C>诸侯立之；诛婴背怀，天下非之。 作项羽本纪第七。 子羽暴虐，汉行功德；愤发蜀汉，还定三秦；诛籍业帝，天下惟宁，改制易俗。</C>
+					<V>Do ông chuyển đến đất Đào</V>
+				</STC>
+				<STC ID="PKS_130.001.002.18">
+					<C>作高祖本纪第八。 惠之早霣，</C>
+					<V>Y Đốn : một đại phú thương thời Chiến quốc.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.19">
+					<C>诸吕不台； 崇强禄、产，诸侯谋之；杀隐幽友， 大臣洞疑， 遂及宗祸。</C>
+					<V>Có sách cho ông người nước</V>
+				</STC>
+				<STC ID="PKS_130.001.002.20">
+					<C>汉旣初兴，继嗣不明，迎王践祚，天下归心；蠲除肉刑，开通关梁，广恩博施，厥称太宗。 作孝文本纪第十。 诸侯骄恣，吴首为乱，京师行诛，七国伏辜，天下翕然，大安殷富。 作孝景本纪第十一。</C>
+					<V>Ý nói chiến tranh liên miên không dứt.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.21">
+					<C>汉兴五世，隆在建元，外攘夷狄，内修法度，封禅，改正朔，易服色。 作今上本纪第十二。 维三代尚矣，年纪不可考，盖取之谱牒旧闻，本于兹，于是略推，作三代世表第一。 幽厉之后，周室衰微，诸侯专政，春秋有所不纪；而谱牒经略，五霸更盛衰，欲睹周世相先后之意，作十二诸侯年表第二。</C>
+					<V>Lâu thuyền: một dạng chiến thuyền thời cổ.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.22">
+					<C>春秋之后，陪臣秉政，强国相王；以至于秦，卒并诸夏，灭封地，擅其号。 作六国年表第三。</C>
+					<V>Mậu Lăng: chỉ Hán Vũ đế.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.23">
+					<C>秦旣暴虐，楚人发难，项氏遂乱，汉乃扶义征伐；八年之间，天下三擅，事繁变衆，故详著秦楚之际月表第四。 汉兴已来，至于太初百年，诸侯废立分削，谱纪不明，有司靡踵，强弱之原云以世。 作汉兴已来诸侯年表第五。</C>
+					<V>Hán Vũ đế ban đầu lấy nàng Trần Kiều, rất yêu, lập làm Hoàng hậu,</V>
+				</STC>
+				<STC ID="PKS_130.001.002.24">
+					<C>维高祖元功，辅臣股肱，剖符而爵，泽流苗裔，忘其昭穆，或杀身陨国。</C>
+					<V>Yên vương Lưu Định Quốc vốn người tông thất nhà Hán, tư thông với mẹ</V>
+				</STC>
+				<STC ID="PKS_130.001.002.25">
+					<C>作高祖功臣侯者年表第六。 惠景之间，维申功臣宗属爵邑，作惠景间侯者年表第七。 北讨强胡，南诛劲越，征伐夷蛮，武功爰列。 作建元以来侯者年表第八。</C>
+					<V>Ở đây, tác giả các trên đều có</V>
+				</STC>
+				<STC ID="PKS_130.001.002.26">
+					<C>诸侯旣强，七国为从，子弟衆多，无爵封邑，推恩行义，其势销弱，德归京师。 作王子侯者年表第九。 国有贤相良将，民之师表也。 维见汉兴以来将相名臣年表，贤者记其治，不贤者彰其事。</C>
+					<V>Ý nói được hưởng lộc của hàng đại phu.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.27">
+					<C>作汉兴以来将相名臣年表第十。</C>
+					<V>Dẫn theo chương thứ 12 &quot;Quảng yếu đạo&quot; của sách Hiếu kinh .</V>
+				</STC>
+				<STC ID="PKS_130.001.002.28">
+					<C>维三代之礼，所损益各殊务，然要以近情性，通王道，故礼因人质为之节文，略协古今之变。 作礼书第一。 乐者，所以移风易俗也。</C>
+					<V>Đoạn này dẫn lời Khổng tử trả lời Lâm Phỏng người nước Lỗ hỏi về gốc</V>
+				</STC>
+				<STC ID="PKS_130.001.002.29">
+					<C>自雅颂声兴，则已好郑衞之音，郑衞之音所从来久矣。 人情之所感，远俗则怀。 比乐书以述来古，</C>
+					<V>Đoạn này là lời Khổng tử trả lời Quý Khang từ người nước Lỗ, chép trong</V>
+				</STC>
+				<STC ID="PKS_130.001.002.30">
+					<C>作乐书第二。</C>
+					<V>sách Luận ngữ .</V>
+				</STC>
+				<STC ID="PKS_130.001.002.31">
+					<C>非兵不强， 非德不昌，黄帝、汤、武以兴， 桀、纣、二世以崩，可不慎欤？</C>
+					<V>Đoạn này là lời Khổng tử trả lời Quý Khang từ nước Lỗ, chép trong thiên</V>
+				</STC>
+				<STC ID="PKS_130.001.002.32">
+					<C>司马法所从来尚矣，</C>
+					<V>Xưa, dùng xe bọc bánh bằng cỏ bồ đón hiền sĩ để xe chạy thêm êm, nhằm</V>
+				</STC>
+				<STC ID="PKS_130.001.002.33">
+					<C>太公、孙、吴、王子 能绍而明之，切近世，极人变。</C>
+					<V>Chỉ việc Hoàng đế nhà Hán khi gặp được Chủ Phụ Yển liền than thở là gặp</V>
+				</STC>
+				<STC ID="PKS_130.001.002.34">
+					<C>作律书第三。 律居阴而治阳，历居阳而治阴，律历更相治，间不容翲忽。 五家之文怫异， 维太初之元论。</C>
+					<V>Tương truyền Phó Duyệt thời nhà Thương từ người đắp tường rồi được</V>
+				</STC>
+				<STC ID="PKS_130.001.002.35">
+					<C>作历书第四。 星气之书，多杂禨祥，不经；推其文，考其应，不殊。 比集论其行事，验于轨度以次，作天官书第五。</C>
+					<V>Lưu Quý : tức Lưu Bang.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.36">
+					<C>受命而王，封禅之符䍐用， 用则万灵罔不禋祀。 追本诸神名山大川礼，作封禅书第六。 维禹浚川，九州攸宁；爰及宣防，决渎通沟。</C>
+					<V>Nhà Hán khi phong chức tước cho bề tôi thì dùng lệnh phù làm tín vật, chia</V>
+				</STC>
+				<STC ID="PKS_130.001.002.37">
+					<C>作河渠书第七。 维币之行， 以通农商；其极则玩巧， 并兼兹殖，争于机利，去本趋末。</C>
+					<V>Xe của Hoàng đế, dùng lụa vàng làm lọng che; dùng đuôi mao ngưu, một</V>
+				</STC>
+				<STC ID="PKS_130.001.002.38">
+					<C>太伯避历，江蛮是适；文武攸兴，古公王迹。</C>
+					<V>Ý nói T riệu Đà dùng xe cộ, xưng hiệu... giống như Hoàng đế nhà Hán.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.39">
+					<C>阖庐弑僚，賔服荆楚；夫差克齐，子胥鸱夷；信嚭亲越，吴国旣灭。 嘉伯之让，作吴世家第一。</C>
+					<V>Ý nói các tộc người thiểu số. Người Trung Quốc xưa cho mình là Hoa,</V>
+				</STC>
+				<STC ID="PKS_130.001.002.40">
+					<C>申、吕肖矣，</C>
+					<V>Trang Sâm : cũng phiên là T rang Tham. Ý nói đã theo hàng nhà Hán. Ý nói quân đội của Long Lự gặp nơi ẩm thấp, bệnh dịch nên phải rời đi</V>
+				</STC>
+				<STC ID="PKS_130.001.002.41">
+					<C>尚父侧微，卒归西伯，文武是师；功冠羣公，缪权于幽；</C>
+					<V>Phần thơ này phiên âm Hán - V iệt như sau:</V>
+				</STC>
+				<STC ID="PKS_130.001.002.42">
+					<C>番番黄发，</C>
+					<V>Ý nói các nước này nhỏ bé, do không tiếp xúc rộng với các nước bên ngoài</V>
+				</STC>
+				<STC ID="PKS_130.001.002.43">
+					<C>爰飨营丘。</C>
+					<V>Từ phú : dạng thức của thể phú giai đoạn thời Hán về trước, cách luật chưa</V>
+				</STC>
+				<STC ID="PKS_130.001.002.44">
+					<C>不背柯盟，桓公以昌，九合诸侯，霸功显彰。</C>
+					<V>Chức quan thời Hán, phụ trách việc trông chó săn của nhà vua.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.45">
+					<C>田阚争宠，姜姓解亡。</C>
+					<V>Nguyên là &quot;trát”, nghĩa là cái thẻ gỗ.</V>
+				</STC>
+				<STC ID="PKS_130.001.002.46">
+					<C>嘉父之谋，作齐太公世家第二。 依之违之，周公绥之；愤发文德，天下和之；辅翼成王，诸侯宗周。 隐桓之际，是独何哉？</C>
+					<V>Xưa, do chưa có giấy, khi cần biên</V>
+				</STC>
+				<STC ID="PKS_130.001.002.47">
+					<C>三桓争强，鲁乃不昌。 嘉旦金縢，作周公世家第三。</C>
+					<V>Tử Hư, Ô Hữu tiên sinh, Vô Thị công: đều là các nhân vật hư cấu trong bài</V>
+				</STC>
+				<STC ID="PKS_130.001.002.48">
+					<C>武王克纣，天下未协而崩。</C>
+					<V>Cách đặt tên nhân vật giống với cách</V>
+				</STC>
+				<STC ID="PKS_130.001.002.49">
+					<C>成王旣幼，管蔡疑之，淮夷叛之，于是召公率德，安集王室，以宁东土。</C>
+					<V>Thư hoàng: một loại khoáng vật màu vàng chanh, người xưa thường dùng</V>
+				</STC>
+				<STC ID="PKS_130.001.002.50">
+					<C>燕易之禅，</C>
+					<V>Một loại đá đẹp. Một loại đá nổi tiếng, đứng sau ngọc.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="PKS_130.001.003">
+				<STC ID="PKS_130.001.003.01">
+					<C>乃成祸乱。</C>
+					<V>Một loại đá màu đen. Một loại đá tốt, kém hơn ngọc. Một loại đá đẹp, kém hơn ngọc.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.02">
+					<C>嘉甘棠之诗，作燕世家第四。 管蔡相武庚，将宁旧商；及旦摄政，二叔不飨；杀鲜放度，</C>
+					<V>Hành : tức đỗ hành, một thứ cỏ thơm. Bạch chỉ và đỗ nhược, là hai thứ cỏ thơm. Một loài cây sắc vàng tươi, có thể dùng làm thuốc.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.03">
+					<C>周公为盟；大任十子，</C>
+					<V>Cũng gọi là xuyên khung, một loài cây có thể dùng làm thuốc.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.04">
+					<C>周以宗强。</C>
+					<V>Một loại cây có thể dùng làm thuốc.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.05">
+					<C>嘉仲悔过， 作管蔡世家第五。</C>
+					<V>Giang ly , mi vu : hai loại cỏ thơm.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.06">
+					<C>王后不绝，舜禹是说；维德休明，苗裔蒙烈。</C>
+					<V>Một loại cỏ lau. Một loài mãnh thú. Cùng kỳ : một loài quái thú.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.07">
+					<C>百世享祀，爰周陈杞，楚实灭之。 齐田旣起，舜何人哉？</C>
+					<V>Một loài sói. Chuyên Chư : dũng sĩ, thích khách nổi tiếng của nước Ngô thời Xuân thu.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.08">
+					<C>作陈杞世家第六。 收殷馀民，叔封始邑，申以商乱，酒材是告，及朔之生，衞顷不宁；</C>
+					<V>Can Tương : người thợ giỏi về đúc kiếm người nước Sở thời Xuân thu. Có chỗ chép là Ô hào, Ô hiệu, là tên một loại cung nỏ cứng.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.09">
+					<C>南子恶蒯聩，子父易名。 周德卑微，战国旣强，衞以小弱，角独后亡。 嘉彼康诰，作衞世家第七。</C>
+					<V>Nguyên là &quot; Hạ phục &quot;, chỉ một loại tên cứng, cũng có thuyết cho là mũi tên</V>
+				</STC>
+				<STC ID="PKS_130.001.003.10">
+					<C>嗟箕子乎！ 嗟箕子乎！</C>
+					<V>Tiêm A : tương truyền là một người giỏi về đánh xe ngựa. Cung cung và cự hư đều là các loài thú trong truyền thuyết.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.11">
+					<C>正言不用，乃反为奴。</C>
+					<V>Một loài ngựa hoang lông màu xanh. Di phong : một loại thiên lý mã. Du kỳ : theo truyền thuyết là một loại thú trên trời. Một loài chim không sợ gió, thường được vẽ hình ở đầu mũi thuyền để</V>
+				</STC>
+				<STC ID="PKS_130.001.003.12">
+					<C>武庚旣死，周封微子。</C>
+					<V>Một loài nhuyễn thể ngoài biển. Một loại trống sáu mặt. Đài ở phía dưới V u Sơn, phía nam đầm Vân Mộng. Núi ở bên biển, phía đông nam tỉnh Sơn Đông.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.13">
+					<C>襄公伤于泓，</C>
+					<V>Núi ở phía đông bắc Sơn Đông. Đầm lớn thời cổ, nay thuộc phía đông bắc Thương Khâu, Hà Nam. Cũng gọi là Dương Cốc, chỉ vùng đất phía đông, nơi mặt trời mọc. Tên nước, tương truyền rộng ba trăm dặm, ở phía đông biển lớn.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.14">
+					<C>君子孰称。</C>
+					<V>Tức vua mở đầu nhà Hạ.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.15">
+					<C>景公谦德，荧惑退行。</C>
+					<V>Bề tôi của vua Thuấn, thủy tổ của nhà Thương.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.16">
+					<C>剔成暴虐， 宋乃灭亡。 嘉微子问太师，作宋世家第八。</C>
+					<V>Phần này được hậu thế định danh là bài phú &quot;Tử Hư” Tử Hư Phú, phần</V>
+				</STC>
+				<STC ID="PKS_130.001.003.17">
+					<C>武王旣崩，叔虞邑唐。</C>
+					<V>Phú của</V>
+				</STC>
+				<STC ID="PKS_130.001.003.18">
+					<C>君子讥名，</C>
+					<V>Thanh Khưu tương</V>
+				</STC>
+				<STC ID="PKS_130.001.003.19">
+					<C>卒灭武公。</C>
+					<V>Cũng là một loài thú trong truyền thuyết, tương truyền loài này sống ở</V>
+				</STC>
+				<STC ID="PKS_130.001.003.20">
+					<C>骊姬之爱，乱者五世；重耳不得意，乃能成霸。</C>
+					<V>Một loài thú, giống ngựa, màu trắng. Một loài ngựa hoang. Một loài tuấn mã.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.21">
+					<C>六卿专权，</C>
+					<V>Chỉ các vị tiên nói chung.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.22">
+					<C>晋国以耗。</C>
+					<V>Tên một vị tiên thời cổ. Tên một loài cây cao, lá nhỏ dài, đầu lá nhọn, gỗ rất cứng, dùng để chế tạo</V>
+				</STC>
+				<STC ID="PKS_130.001.003.23">
+					<C>嘉文公锡圭鬯，作晋世家第九。</C>
+					<V>Một loại thú biết bay trong truyền thuyết, có bốn cánh.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.24">
+					<C>重黎业之，吴回接之；殷之季世，粥子牒之。 周用熊绎，熊渠是续。</C>
+					<V>Một loài thú trong truyền thuyế t, lớn như lừa, hình dáng như khỉ, giỏi leo</V>
+				</STC>
+				<STC ID="PKS_130.001.003.25">
+					<C>庄王之贤，乃复国陈；</C>
+					<V>Một loài linh trưởng. Một loài thú giống khỉ.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.26">
+					<C>旣赦郑伯，班师华元。</C>
+					<V>Một loài cáo trắng. Một loài khỉ.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.27">
+					<C>怀王客死，兰咎屈原；好谀信谗，楚并于秦。</C>
+					<V>Các loại xe dùng khi thiên tử xuất hành. Thời cổ đại, thiên tử xuất hành,</V>
+				</STC>
+				<STC ID="PKS_130.001.003.28">
+					<C>嘉庄王之义，作楚世家第十。</C>
+					<V>Có thuyết cho là Công Tôn Hạ, một quan</V>
+				</STC>
+				<STC ID="PKS_130.001.003.29">
+					<C>少康之子，实賔南海，</C>
+					<V>Chỉ người giỏi đánh xe thời cổ.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.30">
+					<C>文身断发，鼋鱓与处， 旣守封禺， 奉禹之祀。</C>
+					<V>Có thuyết cho là đại tướng quân Vệ Thanh</V>
+				</STC>
+				<STC ID="PKS_130.001.003.31">
+					<C>勾践困彼，乃用种、蠡。</C>
+					<V>Tỳ: một loại mãnh thú.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.32">
+					<C>嘉句践夷蛮能修其德，灭强吴以尊周室，作越王勾践世家第十一。 桓公之东，太史是庸。 及侵周禾，王人是议。</C>
+					<V>Hạt: tức hạt kê, một giống chim giống chim trĩ, nhưng lớn hơn, lông màu</V>
+				</STC>
+				<STC ID="PKS_130.001.003.33">
+					<C>祭仲要盟，郑久不昌。 子产之仁，绍世称贤。</C>
+					<V>Giải trãi: một loài linh thú, tương truyền giống con hươu nhưng có một</V>
+				</STC>
+				<STC ID="PKS_130.001.003.34">
+					<C>三晋侵伐，郑纳于韩。</C>
+					<V>Mãnh thị : loài thú giống gấu nhưng hơn, lông ngắn.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.35">
+					<C>嘉厉公纳惠王，作郑世家第十二。</C>
+					<V>Yểu niểu : một loại thần mã. Tên một loại cung tốt của Hậu Nghệ.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.36">
+					<C>维骥騄耳，乃章造父。 赵夙事献，衰续厥绪。</C>
+					<V>Nguyên văn là Du kiêu : một loài thú. Một loài Linh thú, đầu hươu mình rồng.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.37">
+					<C>佐文尊王，卒为晋辅。 襄子困辱，乃禽智伯。 主父生缚，饿死探爵。</C>
+					<V>Côn kê : loài chim giống hạc, mỏ đỏ, cổ dài, toàn thân màu vàng nhạt. Ế điểu : một loài chim lớn trong truyền thuyết, lông năm màu.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.38">
+					<C>王迁辟淫，良将是斥。</C>
+					<V>Uyên sồ : một loài phượng hoàng.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.39">
+					<C>嘉鞅讨周乱，作赵世家第十三。 毕万爵魏，卜人知之。</C>
+					<V>Tiêu minh : cũng là một loài chim thuộc giống phượng hoàng. Bốn quán xây dựng thời Hán Vũ đế.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.40">
+					<C>及绛戮干，戎翟和之。</C>
+					<V>Ở mạn phía động huyện Đỗ, tỉnh Thiểm Tây .</V>
+				</STC>
+				<STC ID="PKS_130.001.003.41">
+					<C>文侯慕义，子夏师之。 惠王自矜，齐秦攻之。 旣疑信陵，诸侯罢之。</C>
+					<V>Ở phía tây Côn Minh trì (nay là phía tây nam thành phố Tây An, Thiểm</V>
+				</STC>
+				<STC ID="PKS_130.001.003.42">
+					<C>卒亡大梁，王假厮之。</C>
+					<V>Ao ở phía tây vườn thượng uyển.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.43">
+					<C>嘉武佐晋文申霸道，作魏世家第十四。</C>
+					<V>Ở phía đông bắc huyện Hộ, tỉnh Thiểm Tây ngày nay , gần sông Vị Thủy .</V>
+				</STC>
+				<STC ID="PKS_130.001.003.44">
+					<C>韩厥阴德，赵武攸兴。 绍绝立废，晋人宗之。</C>
+					<V>Ở phía nam Côn Minh trì. Thạch : đơn vị tính trọng lượng thời cổ, một thạch nặng 120 cân.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.45">
+					<C>昭侯显列，申子庸之。</C>
+					<V>Cờ trang điểm bằng lông chim trả.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.46">
+					<C>疑非不信，秦人袭之。</C>
+					<V>Trống bưng bằng da loài cá sấu lớn.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.47">
+					<C>嘉厥辅晋匡周天子之赋，作韩世家第十五。 完子避难，适齐为援，阴施五世，齐人歌之。 成子得政，田和为侯。</C>
+					<V>Đào Đường thị : chỉ đế Nghiêu, triều đại đế Nghiêu, Đường Nghiêu. Cát Thiên thị: một thủ lĩnh bộ lạc thời cổ, cùng Vô Hoài thị, đều là những</V>
+				</STC>
+				<STC ID="PKS_130.001.003.48">
+					<C>王建动心，乃迁于共。</C>
+					<V>Thiều : nhạc của thời Ngu Thuấn.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.49">
+					<C>嘉威、宣能拨浊世而独宗周，作田敬仲完世家第十六。</C>
+					<V>Hoạch : nhạc của thời Thành Thang nhà Thương. Vũ: chỉ nhạc của Vũ vương thời nhà Chu. Tượng : nhạc của Chu công Đán thời Chu.</V>
+				</STC>
+				<STC ID="PKS_130.001.003.50">
+					<C>周室旣衰，诸侯恣行。</C>
+					<V>Đều là các đất thuộc nước Sở ở phương nam. Cũng thuộc nước Sở. Địch Đề : một bộ tộc ở phía tây . Một nữ thần trong truyền thuyết.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="PKS_130.001.004">
+				<STC ID="PKS_130.001.004.01">
+					<C>仲尼悼礼废乐崩，追修经术，以达王道，匡乱世反之于正，见其文辞，为天下制仪法，垂六蓺之统，纪于后世。</C>
+					<V>Tương truyền là con gái của Phục Hi, chết đuối ở sông Lạc, rồi làm nữ</V>
+				</STC>
+				<STC ID="PKS_130.001.004.02">
+					<C>作孔子世家第十七。</C>
+					<V>Nhưng xưa, sử</V>
+				</STC>
+				<STC ID="PKS_130.001.004.03">
+					<C>桀、纣失其道而汤、武作，周失其道而春秋作。 秦失其政，而陈涉发迹，诸侯作难，风起云蒸，卒亡秦族。</C>
+					<V>Tương truyền vua</V>
+				</STC>
+				<STC ID="PKS_130.001.004.04">
+					<C>天下之端，自涉发难。</C>
+					<V>Có sách cho là chỉ những kẻ sĩ hiền năng, thu nạp</V>
+				</STC>
+				<STC ID="PKS_130.001.004.05">
+					<C>作陈涉世家第十八。</C>
+					<V>Tức Kinh Thư . Tức Kinh Dịch .</V>
+				</STC>
+				<STC ID="PKS_130.001.004.06">
+					<C>成臯之台，薄氏始基。</C>
+					<V>Minh đường : nơi thiên tử triều kiến chư hầu, cũng chỉ nơi để giải quyết</V>
+				</STC>
+				<STC ID="PKS_130.001.004.07">
+					<C>诎意适代，厥崇诸窦。</C>
+					<V>Tam hoàng : có nhiều thuyế t khác nhau. Tam hoàng có thể là Thiên Hoàng,</V>
+				</STC>
+				<STC ID="PKS_130.001.004.08">
+					<C>栗姬偩贵，王氏乃遂。</C>
+					<V>Chỉ các đời từ Hán Cao tổ, qua Huệ đế, Lã hậu, Văn đế, Cảnh đế đến Hán</V>
+				</STC>
+				<STC ID="PKS_130.001.004.09">
+					<C>陈后太骄，卒尊子夫。</C>
+					<V>Dòng sông năm màu ở cõi tiên. Tức Nữ Oa. Truyền thuyết xưa cho là Phục Hy làm ra đàn, rồi sai Nữ Oa</V>
+				</STC>
+				<STC ID="PKS_130.001.004.10">
+					<C>嘉夫德若斯，作外戚世家十九。</C>
+					<V>Tương truyền Tây Vương Mẫu có loài chim ba chân kiếm thức ăn cho. Phong Long: thần mây . Quan cai quản các kỵ sĩ. Đại nhân chi tụng : Lời ca tụng của bậc đại nhân, ý nói bài &quot;Đại nhân phú”.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.11">
+					<C>汉旣谲谋，禽信于陈；越荆剽轻，乃封弟交为楚王，爰都彭城，以强淮泗，为汉宗藩。</C>
+					<V>Nhạc Thiếu của vua Thuấn, nhạc Hạ của Đại Vũ. Hiên Viên tức Hoàng Đế. Tương truyền Hoàng Đế sinh ở gò Hiên Viên</V>
+				</STC>
+				<STC ID="PKS_130.001.004.12">
+					<C>戊溺于邪，礼复绍之。</C>
+					<V>Ý nói đến thời Văn vương, Vũ vương. Thời Chu, Chu Vũ vương đem quân đi đánh vua Trụ, có con cá trắng nhảy</V>
+				</STC>
+				<STC ID="PKS_130.001.004.13">
+					<C>嘉游辅祖，</C>
+					<V>Ba bậc thần : chỉ các thần trời, đất và sơn thần.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.14">
+					<C>作楚元王世家二十。 维祖师旅，刘贾是与；为布所袭，丧其荆、吴。</C>
+					<V>Trung Nhạc : tức T ung Sơn, một trong năm núi thuộc Ngũ Nhạc. Ý nói những loài thú lạ trong vườn Thượng uyển của nhà vua trước chỉ</V>
+				</STC>
+				<STC ID="PKS_130.001.004.15">
+					<C>营陵激吕，乃王琅邪；怵午信齐，</C>
+					<V>Thành đán thung : một dạng hình phạt thời Tần-Hán, thường ở mức bị</V>
+				</STC>
+				<STC ID="PKS_130.001.004.16">
+					<C>往而不归，遂西入关，遭立孝文，获复王燕。</C>
+					<V>Đoạn này ý nói Công Nghi Hưu là Tể tướng, đã được hưởng bổng lớn rồi</V>
+				</STC>
+				<STC ID="PKS_130.001.004.17">
+					<C>天下未集，贾、泽以族，为汉藩辅。</C>
+					<V>Võ tướng người nước Lương, nổi tiếng là người cương trực. Tức các quan hàng cửu khanh. Ý nói giữ vững cơ nghiệp. Đều là các dũng sĩ thời Chiến quốc.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.18">
+					<C>作荆燕世家第二十一。</C>
+					<V>Cao tổ Lưu</V>
+				</STC>
+				<STC ID="PKS_130.001.004.19">
+					<C>天下已平，亲属旣寡；悼惠先壮，实镇东土。</C>
+					<V>Phần này vốn</V>
+				</STC>
+				<STC ID="PKS_130.001.004.20">
+					<C>哀王擅兴，发怒诸吕，驷钧暴戾，京师弗许。</C>
+					<V>Đương thời là đời loạn,</V>
+				</STC>
+				<STC ID="PKS_130.001.004.21">
+					<C>厉之内淫，祸成主父。</C>
+					<V>Tức bà nội của thiên tử. Ý nói lên làm vua.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.22">
+					<C>嘉肥股肱，作齐悼惠王世家第二十二。</C>
+					<V>Khổng An Quốc : người Khúc Phụ, nước Lỗ, tinh thông kinh học, là cháu</V>
+				</STC>
+				<STC ID="PKS_130.001.004.23">
+					<C>楚人围我荥阳，相守三年；萧何填抚山西，</C>
+					<V>Đại phủ : đây chỉ phủ Thừa tướng. Mậu Lăng : tức lăng mộ của Hán Vũ đế. Thời Hán, lăng mộ do các Hoàng</V>
+				</STC>
+				<STC ID="PKS_130.001.004.24">
+					<C>推计踵兵，给粮食不绝，使百姓爱汉，不乐为楚。</C>
+					<V>Trần hoàng hậu: vợ Hán Vũ đế, rất được sủng ái. Sau, bị thất sủng, bèn</V>
+				</STC>
+				<STC ID="PKS_130.001.004.25">
+					<C>作萧相国世家第二十三。</C>
+					<V>Văn học : chỉ nho học.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.26">
+					<C>与信定魏，破赵拔齐，遂弱楚人。</C>
+					<V>Hán Vũ đế sùng chuộng nho học, bãi truất bách gia. Hai cung : chỉ cung Vị Ương và cung T rường Lạc.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.27">
+					<C>续何相国，不变不革，黎庶攸宁。</C>
+					<V>Triệu vương là con trai của Cảnh đế, anh của Vũ đế, tên là Lưu Bành Tổ,</V>
+				</STC>
+				<STC ID="PKS_130.001.004.28">
+					<C>嘉参不伐功矜能，作曹相国世家第二十四。</C>
+					<V>Thiên phu : một chức quan võ cấp thấp. Năm Nguyên Phong thứ ba thời Hán Vũ đế, Dương Bộc cùng Tả tướng</V>
+				</STC>
+				<STC ID="PKS_130.001.004.29">
+					<C>运筹帷幄之中，制胜于无形，子房计谋其事，无知名，无勇功，图难于易，为大于细。</C>
+					<V>Thời cổ, đơn từ bí mật được cho vào một loại bình/lọ, cổ cao, nhỏ, chỉ cho</V>
+				</STC>
+				<STC ID="PKS_130.001.004.30">
+					<C>作留侯世家第二十五。</C>
+					<V>Nhân địa bàn ở phía tây Kinh Triệu doãn nên gọi là &quot;Hữu</V>
+				</STC>
+				<STC ID="PKS_130.001.004.31">
+					<C>六奇旣用，诸侯賔从于汉；吕氏之事，平为本谋，终安宗庙，定社稷。</C>
+					<V>Tá sử : một chức tiểu lại thời Hán. Chức quan phụ trách các công việc hành chính ở các khu vực phụ cận kinh</V>
+				</STC>
+				<STC ID="PKS_130.001.004.32">
+					<C>作陈丞相世家第二十六。</C>
+					<V>Ý nói phái rất nhiều đoàn sứ giả đi sứ. Các vùng phụ cận kinh đô. Học sĩ: đây chỉ các nhà nho. Ngu Thuấn : là vị đế vương thời cổ, nổi tiếng đức độ, được các nhà nho về</V>
+				</STC>
+				<STC ID="PKS_130.001.004.33">
+					<C>诸吕为从，谋弱京师，而勃反经合于权；吴楚之兵，亚夫驻于昌邑，以戹齐赵，而出委以梁。</C>
+					<V>Khi</V>
+				</STC>
+				<STC ID="PKS_130.001.004.34">
+					<C>作绛侯世家第二十七。 七国叛逆，蕃屏京师，唯梁为捍；偩爱矜功，几获于祸。 嘉其能距吴楚，作梁孝王世家第二十八。</C>
+					<V>Y Doãn : là hiền thần đời nhà Thương. Khi còn hàn vi, ông từng phải tìm</V>
+				</STC>
+				<STC ID="PKS_130.001.004.35">
+					<C>五宗旣王，亲属洽和，诸侯大小为藩，爰得其宜，僭拟之事稍衰贬矣。 作五宗世家第二十九。</C>
+					<V>Phó Duyệt : vốn là một phạm nhân lao động khổ sai ở Phó Hiểm (cũng gọi</V>
+				</STC>
+				<STC ID="PKS_130.001.004.36">
+					<C>三子之王，文辞可观。</C>
+					<V>Lã Thượng : tức Khương Tử Nha, Lã Vọng.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.37">
+					<C>作三王世家第三十。</C>
+					<V>Lã Thượng bảy mươi tuổi</V>
+				</STC>
+				<STC ID="PKS_130.001.004.38">
+					<C>末世争利，维彼奔义；让国饿死，天下称之。 作伯夷列传第一。 晏子俭矣，夷吾则奢；齐桓以霸，景公以治。</C>
+					<V>Quản Trọng vốn là bề tôi của công</V>
+				</STC>
+				<STC ID="PKS_130.001.004.39">
+					<C>作管晏列传第二。 李耳无为自化，清净自正；韩非揣事情，循势理。</C>
+					<V>Bách Lý Hề: Bách Lý Hề lúc trẻ tự bán mình làm nô lệ, chăn trâu cho</V>
+				</STC>
+				<STC ID="PKS_130.001.004.40">
+					<C>作老子韩非列传第三。</C>
+					<V>Trọng Ni: tức Khổng tử.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.41">
+					<C>自古王者而有司马法，穰苴能申明之。</C>
+					<V>Khổng tử từng chu du nhiều nước để truyền bá</V>
+				</STC>
+				<STC ID="PKS_130.001.004.42">
+					<C>作司马穰苴列传第四。</C>
+					<V>Từ nước Vệ sang nước Trần, khi qua vùng đất Khuông của nước Vệ,</V>
+				</STC>
+				<STC ID="PKS_130.001.004.43">
+					<C>非信廉仁勇不能传兵论劔，与道同符，内可以治身，外可以应变，君子比德焉。</C>
+					<V>Mạnh Thường : tức Mạnh Thường quân Điền Văn ở nước Tề;</V>
+				</STC>
+				<STC ID="PKS_130.001.004.44">
+					<C>作孙子吴起列传第五。</C>
+					<V>Mậu Lăng : lăng mộ của Hán Vũ đế.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.45">
+					<C>维建遇谗，爰及子奢，尚旣匡父，伍员奔吴。</C>
+					<V>Năm Kiến Nguyên thứ hai thời Hán</V>
+				</STC>
+				<STC ID="PKS_130.001.004.46">
+					<C>作伍子胥列传第六。</C>
+					<V>Đến năm Nguyên Sóc thứ hai, lại dời các nhà phú hào tại các</V>
+				</STC>
+				<STC ID="PKS_130.001.004.47">
+					<C>孔氏述文，弟子兴业，咸为师傅，崇仁厉义。</C>
+					<V>Cung Cao hầu : tức Hàn Đồi Dương, con trai của Hàn vương là Tín. Nguyên là &quot;vĩnh hạng”, lối đi dài trong cung, chỉ chỗ ở của các cung tần. Hủ hình : cũng như cung hình, phạm tội bị thiến. Thời Hán trong cung có chức quan Cẩu giám, phụ trách việc trông coi,</V>
+				</STC>
+				<STC ID="PKS_130.001.004.48">
+					<C>作仲尼弟子列传第七。</C>
+					<V>Thế rồi, mẹ Di Tử bị bệnh, có</V>
+				</STC>
+				<STC ID="PKS_130.001.004.49">
+					<C>鞅去衞适秦，能明其术，强霸孝公，后世遵其法。</C>
+					<V>Các loại gỗ tốt. Lục súc : sáu loại vật nuôi: ngựa, trâu, dê, lợn, chó, gà. Thái quan : quan phụ trách việc ăn uống của nhà vua. Kinh thuật : đây chỉ kinh điển Nho gia.</V>
+				</STC>
+				<STC ID="PKS_130.001.004.50">
+					<C>作商君列传第八。</C>
+					<V>Một chức quan nhỏ thời Hán, trật một trăm thạch. Các thuộc quan trong quận. Đoạn này trích từ chương chín mươi bảy sách Đạo đức kinh, ý nói những</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="PKS_130.001.005">
+				<STC ID="PKS_130.001.005.01">
+					<C>天下患衡秦毋餍，而苏子能存诸侯，约从以抑贪强。</C>
+					<V>Bốc phệ : bốc là bói bằng mai rùa, phệ là bói bằng cỏ thi. Chỉ việc Hán Vũ đế vào triều kế vị. Chức quan phụ trách việc xem bói. Không ở triều đình : ý nói không làm quan trong triều.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.02">
+					<C>作苏秦列传第九。</C>
+					<V>Trăm thứ lúa: chỉ Hậu Tắc. Theo truyền thuyết, nguyên phi của Đế Khốc</V>
+				</STC>
+				<STC ID="PKS_130.001.005.03">
+					<C>六国旣从亲，而张仪能明其说，复散解诸侯。 作张仪列传第十。 秦所以东攘 雄诸侯，樗里、甘茂之策。</C>
+					<V>Hôm</V>
+				</STC>
+				<STC ID="PKS_130.001.005.04">
+					<C>作樗里甘茂列传第十一。 苞河山， 围大梁，使诸侯敛手而事秦者，魏冉之功。 作穰侯列传第十二。</C>
+					<V>Vua Trụ làm nhiều việc tàn ác, bề tôi là Tổ Y can ngăn cảnh báo nhưng</V>
+				</STC>
+				<STC ID="PKS_130.001.005.05">
+					<C>南拔鄢郢，北摧长平，遂围邯郸，武安为率；破荆灭赵，王翦之计。 作白起王翦列传第十三。 猎儒墨之遗文，明礼义之统纪，绝惠王利端，列往世兴衰。 作孟子荀卿列传第十四。</C>
+					<V>Năm Hy công thứ 25, triều đình nhà Chu nội loạn, Chu Tương vương phải</V>
+				</STC>
+				<STC ID="PKS_130.001.005.06">
+					<C>好客喜士，士归于薛，为齐捍楚魏。 作孟尝君列传第十五。 争冯亭以权， 如楚以救邯郸之围，使其君复称于诸侯。</C>
+					<V>Thế là vua tôi nước Tấn đem quân cần</V>
+				</STC>
+				<STC ID="PKS_130.001.005.07">
+					<C>作平原君虞卿列传第十六。 能以富贵下贫贱，贤能诎于不肖，唯信陵君为能行之。 作魏公子列传第十七。 以身徇君，遂脱强秦，使驰说之士南乡走楚者，黄歇之义。</C>
+					<V>Hoàng Đế đánh trận ở Bản</V>
+				</STC>
+				<STC ID="PKS_130.001.005.08">
+					<C>作春申君列传第十八。 能忍诟于魏齐， 而信威于强秦，推贤让位，二子有之。 作范雎蔡泽列传第十九。</C>
+					<V>Năm Hy công thứ 28, trong trận</V>
+				</STC>
+				<STC ID="PKS_130.001.005.09">
+					<C>率行其谋，连五国兵，为弱燕报强齐之雠，雪其先君之耻。 作乐毅列传第二十。 能信意强秦，而屈体廉子，用徇其君，俱重于诸侯。 作廉颇蔺相如列传第二十一。</C>
+					<V>Cung đỏ</V>
+				</STC>
+				<STC ID="PKS_130.001.005.10">
+					<C>泯王旣失临淄而奔莒，唯田单用即墨破走骑劫，遂存齐社稷。 作田单列传第二十二。 能设诡说解患于围城，轻爵禄，乐肆志。 作鲁仲连邹阳列传第二十三。</C>
+					<V>Tấn Hiến công sắp đánh Ly Nhung, sai đại phu Sử Tô bói quẻ, được điềm</V>
+				</STC>
+				<STC ID="PKS_130.001.005.11">
+					<C>作辞以讽谏，连类以争义，离骚有之。 作屈原贾生列传第二十四。 结子楚亲，使诸侯之士斐然争入事秦。 作吕不韦列传第二十五。</C>
+					<V>Tấn</V>
+				</STC>
+				<STC ID="PKS_130.001.005.12">
+					<C>曹子匕首，鲁获其田，齐明其信；豫让义不为二心。 作刺客列传第二十六。 能明其画，因时推秦，遂得意于海内，斯为谋首。 作李斯列传第二十七。</C>
+					<V>Ly Cơ dùng nhan</V>
+				</STC>
+				<STC ID="PKS_130.001.005.13">
+					<C>为秦开地益衆，北靡匈奴，据河为塞，因山为固，建榆中。 作蒙恬列传第二十八。 填赵塞常山以广河内，弱楚权，明汉王之信于天下。 作张耳陈馀列传第二十九。</C>
+					<V>Hiến công chết, các công tử tranh ngôi, trải</V>
+				</STC>
+				<STC ID="PKS_130.001.005.14">
+					<C>收西河、上党之兵，从至彭城；越之侵掠梁地以苦项羽。 作魏豹彭越列传第三十。 以淮南叛楚归汉，汉用得大司马殷，卒破子羽于陔下。 作黥布列传第三十一。</C>
+					<V>Sở Linh vương từng bói quẻ, hỏi: &quot;Ta có được thiên hạ không?&quot;</V>
+				</STC>
+				<STC ID="PKS_130.001.005.15">
+					<C>楚人迫我京索，而信㧞魏赵，定燕齐，使汉三分天下有其二，以灭项籍。 作淮阴侯列传第三十二。 楚汉相距巩洛，而韩信为填颍川，卢绾绝籍粮饷。 作韩信卢绾列传第三十三。</C>
+					<V>Được quẻ</V>
+				</STC>
+				<STC ID="PKS_130.001.005.16">
+					<C>诸侯畔项王，唯齐连子羽城阳，汉得以间遂入彭城。</C>
+					<V>Dân chúng lo sợ vì lòng tham không</V>
+				</STC>
+				<STC ID="PKS_130.001.005.17">
+					<C>作田儋列传第三十四。 攻城野战，获功归报，哙、商有力焉，非独鞭策，又与之脱难。 作樊郦列传第三十五。</C>
+					<V>Trong Kinh Thư , Cơ Tử nói với Vũ vương về năm cách quyết định những</V>
+				</STC>
+				<STC ID="PKS_130.001.005.18">
+					<C>汉旣初定，文理未明，苍为主计，整齐度量，序律历。</C>
+					<V>Lòng mình đã quyết, bói</V>
+				</STC>
+				<STC ID="PKS_130.001.005.19">
+					<C>作张丞相列传第三十六。 结言通使，约怀诸侯；诸侯咸亲，归汉为藩辅。 作郦生陆贾列传第三十七。 欲详知秦楚之事，维周緤常从高祖，平定诸侯。</C>
+					<V>Thân</V>
+				</STC>
+				<STC ID="PKS_130.001.005.20">
+					<C>作傅靳蒯成列传第三十八。 徙强族，都关中，和约匈奴；明朝廷礼，次宗庙仪法。</C>
+					<V>Ngài quyết, bói mai rùa tốt, bói cỏ thi</V>
+				</STC>
+				<STC ID="PKS_130.001.005.21">
+					<C>作刘敬叔孙通列传第三十九。 能摧刚作柔，卒为列臣；栾公不劫于势而倍死。 作季布栾布列传第四十。</C>
+					<V>Khanh sĩ theo, bói mai</V>
+				</STC>
+				<STC ID="PKS_130.001.005.22">
+					<C>敢犯颜色以达主义，不顾其身，为国家树长画。</C>
+					<V>Thứ dân</V>
+				</STC>
+				<STC ID="PKS_130.001.005.23">
+					<C>作袁盎朝错列传第四十一。 守法不失大理，言古贤人，增主之明。</C>
+					<V>Đúng ý ngài, bói mai rùa tốt, bói cỏ thi xấu, khanh sĩ không theo,</V>
+				</STC>
+				<STC ID="PKS_130.001.005.24">
+					<C>作张释之冯唐列传第四十二。 敦厚慈孝，讷于言，敏于行，务在鞠躬，君子长者。 作万石张叔列传第四十三。 守节切直，义足以言廉，行足以厉贤，任重权不可以非理挠。</C>
+					<V>Như vậy, dựa vào</V>
+				</STC>
+				<STC ID="PKS_130.001.005.25">
+					<C>作田叔列传第四十四。</C>
+					<V>Chỉ sách Sử ký của Tư Mã Thiên.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.26">
+					<C>扁鹊言医，为方者宗，守数精明；后世修序，弗能易也，而仓公可谓近之矣。</C>
+					<V>Phục linh : loại thực vật dùng làm thuốc. Thỏ ti : loài tơ hồng, sống tầm gửi vào loại cây khác. Ý nói không bị cháy rừng. Ý nói không bị người ta đến chặt phá.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.27">
+					<C>作扁鹊仓公列传第四十五。</C>
+					<V>Vua nước Tống thời Xuân thu Chiến quốc. Làng : nguyên là &quot;lư&quot;, đơn vị hành chính cũ, 25 nhà là một &quot;lư&quot;. Vua Kiệt làm nhiều việc tàn ác vô đạo, bề tôi là Quan Long Phụng ra sức</V>
+				</STC>
+				<STC ID="PKS_130.001.005.28">
+					<C>维仲之省，</C>
+					<V>Thánh nhân : chỉ Tỷ Can, bề tôi vua Trụ. Tương truyền Tỷ Can can ngăn</V>
+				</STC>
+				<STC ID="PKS_130.001.005.29">
+					<C>厥濞王吴，遭汉初定，以填抚江淮之间。 作吴王濞列传第四十六。</C>
+					<V>Mùa đông, có người buổi sớm lội nước, bảo rằng chân mình chịu được rét,</V>
+				</STC>
+				<STC ID="PKS_130.001.005.30">
+					<C>吴楚为乱，宗属唯婴贤而喜士，士乡之，率师抗山东荥阳。</C>
+					<V>Ý nói dùng giáo hóa, lễ nghi... để cai trị. Theo truyền thuyết, trên mặt trời có con quạ ba chân. Theo Hoài Nam tử - Thuyết lâm huấn : cóc ăn ánh trăng sáng. Đằng xà : một loài rồng.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.31">
+					<C>作魏其武安列传第四十七。</C>
+					<V>Đoạn này nói về một số kiểu vết nứt trên mai rùa, cách diễn đạt khó hiểu,</V>
+				</STC>
+				<STC ID="PKS_130.001.005.32">
+					<C>智足以应近世之变，宽足用得人。 作韩长孺列传第四十八。 勇于当敌，仁爱士卒，号令不烦，师徒乡之。</C>
+					<V>Bồi thần : quan đại phu của nước chư hầu.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.33">
+					<C>作李将军列传第四十九。</C>
+					<V>Đoạn này trích từ thiên &quot;Mục dân&quot;, sách Quản tử .</V>
+				</STC>
+				<STC ID="PKS_130.001.005.34">
+					<C>自三代以来，匈奴常为中国患害；欲知强弱之时，设备征讨，作匈奴列传第五十。 直曲塞，广河南，破祁连，通西国，靡北胡。 作衞将军骠骑列传第五十一。 大臣宗室以侈靡相高，唯弘用节衣食为百吏先。</C>
+					<V>Ý nói nông dân không muốn khai phá ruộng đất để canh tác nữa.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.35">
+					<C>作平津侯列传第五十二。 汉旣平中国，而佗能集杨越以保南藩，纳贡职。 作南越列传第五十三。</C>
+					<V>Tử Cống họ tên là Đoan Mộc Tứ.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.36">
+					<C>吴之叛逆，瓯人斩濞， 葆守封禺为臣。</C>
+					<V>Nguyên Hiến : học trò Khổng tử, tự là Tử Tư, người nước Tống.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.37">
+					<C>作东越列传第五十四。 燕丹散乱辽间，蒲收其亡民，厥聚海东，以集真藩，</C>
+					<V>Y Đốn : đại thương nhân người thời Chiến quốc, nhờ kinh doanh muối ở</V>
+				</STC>
+				<STC ID="PKS_130.001.005.38">
+					<C>葆塞为外臣。 作朝鲜列传第五十五。 唐蒙使略通夜郎，而卭笮之君请为内臣受吏。</C>
+					<V>Nguyên là &quot;phong quân&quot;, chỉ những người có con cháu hiển quý, được</V>
+				</STC>
+				<STC ID="PKS_130.001.005.39">
+					<C>作西南夷列传第五十六。 子虚之事，大人赋说，靡丽多夸，然其指风谏，归于无为。 作司马相如列传第五十七。 黥布叛逆，子长国之，以填江淮之南，安剽楚庶民。</C>
+					<V>Thuế cống : tương truyền là chế độ thuế khóa thời nhà Hạ.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.40">
+					<C>作淮南衡山列传第五十八。 奉法循理之吏，不伐功矜能，百姓无称，亦无过行。 作循吏列传第五十九。 正衣冠立于朝廷，而羣臣莫敢言浮说，长孺矜焉；好荐人，称长者，壮有溉。</C>
+					<V>Thủ lĩnh nước Chu, người đầu tiên của nước Chu tự xưng là &quot;công&quot;.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.41">
+					<C>作汲郑列传第六十。 自孔子卒，京师莫崇庠序，唯建元元狩之间，文辞粲如也。 作儒林列传第六十一。 民倍本多巧，姧轨弄法，善人不能化，唯一切严削为能齐之。</C>
+					<V>Do</V>
+				</STC>
+				<STC ID="PKS_130.001.005.42">
+					<C>作酷吏列传第六十二。 汉旣通使大夏，而西极远蛮，引领内乡，欲观中国。 作大宛列传第六十三。 救人于戹，振人不赡，仁者有乎；不旣信，</C>
+					<V>Chi tử : hạt cây dành dành, dùng để nhuộm tóc.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.43">
+					<C>不倍言，义者有取焉。 作游侠列传第六十四。 夫事人君能说主耳目，和主颜色，而获亲近，非独色爱，能亦各有所长。 作佞幸列传第六十五。</C>
+					<V>Nguyên là &quot;mao ngưu&quot;, một giống bò lông dài, gần giống bò tót.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.44">
+					<C>不流世俗，不争势利，上下无所凝滞，人莫之害，以道之用。 作滑稽列传第六十六。 齐、楚、秦、赵为日者，各有俗所用。 欲循观其大旨，</C>
+					<V>Chỉ việc Vũ Linh vương nước Triệu chủ trương mặc trang phục người Hồ,</V>
+				</STC>
+				<STC ID="PKS_130.001.005.45">
+					<C>作日者列传第六十七。 三王不同龟，四夷各异卜， 然各以决吉凶。</C>
+					<V>Năm loại dân: chỉ sĩ - người đi học, nông - người làm ruộng, thương -</V>
+				</STC>
+				<STC ID="PKS_130.001.005.46">
+					<C>略闚其要，作龟策列传第六十八。 布衣匹夫之人，不害于政，不妨百姓，取与以时而息财富，智者有采焉。 作货殖列传第六十九。 维我汉继五帝末流，接三代统业。</C>
+					<V>Thu: một loại cây lấy gỗ.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.47">
+					<C>周道废，秦拨去古文，焚灭诗书，故明堂石室金匮玉版 图籍散乱。 于是汉兴，萧何次律令，韩信申军法，张苍为章程， 叔孙通定礼仪，则文学彬彬稍进，诗书往往间出矣。</C>
+					<V>Chung : đơn vị đo lường, mỗi chung bằng sáu hộc (10 đấu) bốn đấu.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.48">
+					<C>自曹参荐盖公言黄老， 而贾生、晁错明申、商，公孙弘以儒显，百年之间，天下遗文古事靡不毕集太史公。 太史公仍父子相续纂其职。 曰：「于戏！</C>
+					<V>Gốc giàu : gốc, chỉ nghề nông, nông nghiệp.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.49">
+					<C>余维先人尝掌斯事，显于唐虞，至于周，复典之，故司马氏世主天官。 至于余乎，钦念哉！ 钦念哉！」 罔罗天下放失旧闻，</C>
+					<V>Ngọn giàu : ngọn, chỉ thương nghiệp.</V>
+				</STC>
+				<STC ID="PKS_130.001.005.50">
+					<C>王迹所兴，原始察终，见盛观衰，论考之行事，略推三代，录秦汉，上记轩辕，下至于兹，著十二本纪，旣科条之矣。 并时异世，年差不明，作十表。 礼乐损益，律历改易，兵权山川鬼神，</C>
+					<V>Quân: đơn vị đo lường thời xưa, ba mươi cân là một quân.</V>
+				</STC>
+			</PAGE>
+			<PAGE ID="PKS_130.001.006">
+				<STC ID="PKS_130.001.006.01">
+					<C>天人之际，承敝通变，作八书。 二十八宿环北辰，三十辐共一毂， 运行无穷，辅拂股肱之臣配焉，忠信行道，以奉主上，作三十世家。 扶义俶傥，不令己失时，立功名于天下，</C>
+					<V>Thường chỉ dân các tộc người thiểu số.</V>
+				</STC>
+				<STC ID="PKS_130.001.006.02">
+					<C>作七十列传。 凡百三十篇，五十二万六千五百字，为太史公书序。 略以拾遗补蓺，</C>
+					<V>Đây dùng chỉ các tộc người thiểu</V>
+				</STC>
+				<STC ID="PKS_130.001.006.03">
+					<C>成一家之言，厥协六经异传， 整齐百家杂语，</C>
+					<V>Ý nói nhất cử nhất động đều phải được lợi ích mới làm. Đỉnh thực : ăn cơm vạc, ý nói nhà giàu có.</V>
+				</STC>
+				<STC ID="PKS_130.001.006.04">
+					<C>藏之名山，副在京师， 俟后世圣人君子。 第七十。 太史公曰：余述历黄帝以来至太初而讫，百三十篇。</C>
+					<V>Ý nói nhà giàu có, đông người hầu kẻ hạ.</V>
+				</STC>
+			</PAGE>
+		</SECT>
+	</FILE>
+</root>
